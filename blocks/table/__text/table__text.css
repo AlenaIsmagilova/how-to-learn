@@ -4,3 +4,7 @@
   font-size: 18px;
   font-weight: normal;
 }
+
+.table__text:nth-child(3n) {
+  margin: 20px 0 0;
+}
